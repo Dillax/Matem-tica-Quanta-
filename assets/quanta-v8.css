@@ -120,8 +120,8 @@
 }
 
 /* ===== Camada de fórmulas flutuantes ===== */
-.fx-layer{position:fixed;inset:0;z-index:0;pointer-events:none;overflow:hidden}
-.site>*{position:relative;z-index:1}
+.fx-layer{position:fixed;inset:0;z-index:0;pointer-events:none;overflow:hidden;contain:strict}
+.site>main,.site>footer{position:relative;z-index:1}
 .fx-layer .fx{position:absolute;top:-16vh;opacity:0;color:#7f8794;will-change:transform,opacity;
   animation-name:fxDrift;animation-timing-function:linear;animation-iteration-count:infinite}
 .fx-layer .fx .katex{font-size:15px;color:inherit;opacity:.5}
