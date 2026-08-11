@@ -1,0 +1,17 @@
+Coloque nesta pasta os 11 retratos, em .jpg, com EXATAMENTE estes nomes:
+
+  newton.jpg        Isaac Newton
+  euler.jpg         Leonhard Euler
+  gauss.jpg         Carl Friedrich Gauss
+  germain.jpg       Sophie Germain
+  noether.jpg       Emmy Noether
+  ramanujan.jpg     Srinivasa Ramanujan
+  kovalevskaya.jpg  Sofia Kovalevskaya
+  hypatia.jpg       Hipatia de Alexandria
+  mirzakhani.jpg    Maryam Mirzakhani
+  malba.jpg         Julio Cesar de Mello e Souza (Malba Tahan)
+  gomes.jpg         Manuel Amoroso Costa
+
+Formato sugerido: 1200 x 800 px, retrato centralizado no terco superior.
+Fonte recomendada: Wikimedia Commons (dominio publico ou CC).
+Enquanto um arquivo nao existir, o slide mostra apenas o texto sobre o fundo escuro.
